@@ -1,13 +1,3 @@
-#  Name: Clyde Sumagang and Roy Morla
-#  Date: October 1, 2019
-#  Course: CST205
-#  Description: This code will remove unwanted things in images via temporal processing.
-
-#  Summary: This probelm was a little more difficult, however, we were able to
-#  find the median of all the images by storing each RGB value into its
-#  own list and finding the median of those. It took awhile, but walking through it on paper
-#  really helped, and we were able to figure out how we should loop through it.
-
 import glob
 from PIL import Image
 
